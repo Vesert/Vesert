@@ -1,8 +1,14 @@
-### Hi there 👋
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/KNP5EQE5n2nczSFYpD/giphy.gif" width="100"/>
 </div>
+
+<ul style="list-style:none; padding:0;">
+    <li>
+        <a href="#" style="border:1px solid white;">
+        <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" style="display:block;box-shadow: -1px 1px 20px 3px rgba(255,255,255,0.75);border-radius:10%;margin:0 auto;">
+        </a>
+    </li>
+</ul>
 
 <!--
 **Vesert/Vesert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
