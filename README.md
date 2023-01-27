@@ -31,7 +31,7 @@ I'm python developer:
 ### 🔥 &nbsp; My Stats:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-45%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-84-blue)
 
@@ -39,7 +39,7 @@ I'm python developer:
 
 > 🏆 14 Contributions in the Year 2023
  > 
-> 📦 324 Bytes Used in GitHub's Storage 
+> 📦 336 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -104,7 +104,7 @@ Scala                    1 repo              ██████░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Vesert/Vesert/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/01/2023 20:10:55 UTC
+ Last Updated on 27/01/2023 21:08:30 UTC
 <!--END_SECTION:waka-->
 ---
 
