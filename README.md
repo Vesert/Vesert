@@ -31,13 +31,13 @@ I'm python developer:
 ### 🔥 &nbsp; My Stats:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 8 Contributions in the Year 2023
+> 🏆 12 Contributions in the Year 2023
  > 
 > 📦 304 Bytes Used in GitHub's Storage 
  > 
@@ -47,6 +47,48 @@ I'm python developer:
  > 
 > 🔑 1 Private Repository 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+🌆 Daytime    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+🌃 Evening    2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.41% 
+🌙 Night      25 commits     ███████████████████████░░   92.59%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       9 commits      ████████░░░░░░░░░░░░░░░░░   33.33% 
+Tuesday      2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.41% 
+Wednesday    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Thursday     4 commits      ███░░░░░░░░░░░░░░░░░░░░░░   14.81% 
+Friday       2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.41% 
+Saturday     8 commits      ███████░░░░░░░░░░░░░░░░░░   29.63% 
+Sunday       2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.41%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Bishkek
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -62,7 +104,7 @@ Scala                    1 repo              ██████░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Vesert/Vesert/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/01/2023 18:51:52 UTC
+ Last Updated on 27/01/2023 19:20:29 UTC
 <!--END_SECTION:waka-->
 ---
 
