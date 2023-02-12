@@ -31,7 +31,7 @@ I'm python developer:
 ### 🔥 &nbsp; My Stats:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-53-blue)
 
@@ -110,7 +110,7 @@ Scala                    1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Vesert/Vesert/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/02/2023 15:09:30 UTC
+ Last Updated on 12/02/2023 18:11:30 UTC
 <!--END_SECTION:waka-->
 ---
 
