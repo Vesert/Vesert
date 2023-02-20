@@ -31,7 +31,7 @@ I'm python developer:
 ### 🔥 &nbsp; My Stats:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
@@ -76,16 +76,16 @@ Sunday           5 commits       ██░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bishkek
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    11 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  11 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+shop_phones              11 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      11 mins             █████████████████████████   100.00 % 
 
 ```
 
@@ -104,7 +104,7 @@ Scala                    1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Vesert/Vesert/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/02/2023 18:10:45 UTC
+ Last Updated on 20/02/2023 21:07:52 UTC
 <!--END_SECTION:waka-->
 ---
 
