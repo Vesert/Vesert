@@ -33,7 +33,7 @@ I'm python developer:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%2029%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
 **🐱 My GitHub Data** 
 
@@ -104,7 +104,7 @@ Scala                    1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Vesert/Vesert/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/02/2023 06:11:53 UTC
+ Last Updated on 20/02/2023 09:09:37 UTC
 <!--END_SECTION:waka-->
 ---
 
