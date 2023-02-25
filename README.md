@@ -37,7 +37,7 @@ I'm python developer:
 
 **🐱 My GitHub Data** 
 
-> 📦 2.2 kB Used in GitHub's Storage 
+> 📦 2.1 kB Used in GitHub's Storage 
  > 
 > 🏆 25 Contributions in the Year 2023
  > 
@@ -101,7 +101,7 @@ Jupyter Notebook         1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vesert/Vesert/main/assets/bar_graph.png)
 
 
- Last Updated on 25/02/2023 00:44:36 UTC
+ Last Updated on 25/02/2023 03:13:30 UTC
 <!--END_SECTION:waka-->
 ---
 
