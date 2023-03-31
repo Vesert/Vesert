@@ -33,7 +33,7 @@ I'm python developer:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2051%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-63-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-59-blue)
 
 **🐱 My GitHub Data** 
 
@@ -104,7 +104,7 @@ Jupyter Notebook         1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vesert/Vesert/main/assets/bar_graph.png)
 
 
- Last Updated on 31/03/2023 12:14:55 UTC
+ Last Updated on 31/03/2023 15:08:29 UTC
 <!--END_SECTION:waka-->
 ---
 
