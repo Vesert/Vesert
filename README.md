@@ -74,8 +74,7 @@ Sunday                   9 commits           ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bishkek
 
 💬 Programming Languages: 
-Other                    0 secs              ███████████████████████░░   91.74 % 
-Text                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+Other                    0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
 VS Code                  0 secs              █████████████████████████   100.00 % 
@@ -102,7 +101,7 @@ Jupyter Notebook         1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vesert/Vesert/main/assets/bar_graph.png)
 
 
- Last Updated on 19/04/2023 18:09:56 UTC
+ Last Updated on 19/04/2023 21:07:21 UTC
 <!--END_SECTION:waka-->
 ---
 
