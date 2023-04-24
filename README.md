@@ -31,7 +31,7 @@ I'm python developer:
 ### 🔥 &nbsp; My Stats:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
@@ -101,7 +101,7 @@ Jupyter Notebook         1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vesert/Vesert/main/assets/bar_graph.png)
 
 
- Last Updated on 24/04/2023 06:11:14 UTC
+ Last Updated on 24/04/2023 09:08:48 UTC
 <!--END_SECTION:waka-->
 ---
 
