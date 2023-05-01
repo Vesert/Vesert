@@ -31,9 +31,9 @@ I'm python developer:
 ### 🔥 &nbsp; My Stats:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2031%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **🐱 My GitHub Data** 
 
@@ -74,17 +74,16 @@ Sunday                   9 commits           ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bishkek
 
 💬 Programming Languages: 
-Python                   13 mins             ████████████████████████░   97.90 % 
-CSV                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -102,7 +101,7 @@ Jupyter Notebook         1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vesert/Vesert/main/assets/bar_graph.png)
 
 
- Last Updated on 27/04/2023 18:09:35 UTC
+ Last Updated on 01/05/2023 18:24:38 UTC
 <!--END_SECTION:waka-->
 ---
 
