@@ -74,19 +74,16 @@ Sunday                   9 commits           ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bishkek
 
 💬 Programming Languages: 
-Other                    2 mins              ██████████████████░░░░░░░   71.87 % 
-Python                   1 min               ███████░░░░░░░░░░░░░░░░░░   27.74 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          2 mins              ████████████████░░░░░░░░░   65.39 % 
-shop_phones              1 min               █████████░░░░░░░░░░░░░░░░   34.61 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -104,7 +101,7 @@ Jupyter Notebook         1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vesert/Vesert/main/assets/bar_graph.png)
 
 
- Last Updated on 09/05/2023 18:09:34 UTC
+ Last Updated on 09/05/2023 21:06:55 UTC
 <!--END_SECTION:waka-->
 ---
 
